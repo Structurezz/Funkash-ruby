@@ -131,3 +131,4 @@ delete '/users/:id' do
     halt 500, { error: "Something went wrong" }.to_json
   end
 end
+end
