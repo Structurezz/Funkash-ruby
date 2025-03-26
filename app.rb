@@ -7,7 +7,7 @@ require_relative 'config/database'
 require_relative 'models/user'
 require 'json'
 
-class RubyMysqlCrud < Sinatra::Base
+
 SECRET_KEY = ENV['SECRET_KEY']
 
 helpers do
@@ -130,5 +130,4 @@ delete '/users/:id' do
   else
     halt 500, { error: "Something went wrong" }.to_json
   end
-end
 end
