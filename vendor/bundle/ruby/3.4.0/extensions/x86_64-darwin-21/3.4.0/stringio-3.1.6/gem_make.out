@@ -1,0 +1,19 @@
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.6/ext/stringio
+/Users/mac/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-xne8t6 sitelibdir\=./.gem.20250325-50059-xne8t6 clean
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-xne8t6 sitelibdir\=./.gem.20250325-50059-xne8t6
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-xne8t6 sitelibdir\=./.gem.20250325-50059-xne8t6 install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20250325-50059-xne8t6
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-xne8t6 sitelibdir\=./.gem.20250325-50059-xne8t6 clean

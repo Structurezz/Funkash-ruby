@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'mysql2', '~> 0.5'
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'rackup'
+gem 'puma'
+gem 'rake'
+gem 'activerecord'
+gem 'bcrypt'
+gem 'dotenv'
+gem 'jwt'

@@ -1,0 +1,19 @@
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/mac/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-43yppa sitelibdir\=./.gem.20250325-50059-43yppa clean
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-43yppa sitelibdir\=./.gem.20250325-50059-43yppa
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-43yppa sitelibdir\=./.gem.20250325-50059-43yppa install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250325-50059-43yppa/racc
+
+current directory: /Users/mac/ruby-mysql-crud/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250325-50059-43yppa sitelibdir\=./.gem.20250325-50059-43yppa clean
