@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'mysql2', '~> 0.5'
+gem 'mysql2'
 gem 'sinatra'
 gem 'sinatra-activerecord'
 gem 'rackup'

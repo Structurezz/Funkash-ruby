@@ -92,7 +92,7 @@ DEPENDENCIES
   bcrypt
   dotenv
   jwt
-  mysql2 (~> 0.5)
+  mysql2
   puma
   rackup
   rake

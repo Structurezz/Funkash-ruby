@@ -1,5 +1,5 @@
-
 require 'bundler/setup'
+require 'sinatra/activerecord'
 require './app'
 
-run RubyMysqlCrud 
+run Sinatra::Application
