@@ -7,6 +7,7 @@ require_relative 'config/database'
 require_relative 'models/user'
 require 'json'
 
+class RubyMysqlCrud < Sinatra::Base
 SECRET_KEY = ENV['SECRET_KEY']
 
 helpers do
